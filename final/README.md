@@ -7,8 +7,8 @@
 
 ## Analysis 1 :
 - Considering only H1B petitions for part time positions in this analysis
-- Analyzing the success ratio for  H1B petitions for each Job in every state [a11](ana_1/Top10_ApprovalRate.png)
-- Top 10 states with the maximum number of H1B applications [a12](https://github.com/s-rohil/DataAnalysis_Python_Spring17/blob/master/final/ana_1/Top10_States.png)
+- Analyzing the success ratio for  H1B petitions for each Job in every state ![""](ana_1/Top10_ApprovalRate.png)
+- Top 10 states with the maximum number of H1B applications ![""](ana_1/Top10_States.png)
 
 ## Analysis 2 :
 - Considering only H1B petitions for full time positions in this analysis
