@@ -14,7 +14,7 @@
 - Considering only H1B petitions for full time positions in this analysis
 - Plotting the concentration of H1B applications on map of USA using folium and Scatter plot
  ![""](ana_2/scatter_plot.png)
- [USA Map](ana_2/output.html)
+- [USA Map](ana_2/output.html)
 
 ## Analysis 3 :
 - Considering the H1B petitions of Computer Programmers across USA
@@ -30,4 +30,4 @@
 - Considering only H1B petitions for full time positions
 - Finding the state with highest number of petitions
 - Calculating the mean wages of every city in that state
-- Finding out the min,max,mean wages of every employer in that state and displaying the top 10 companies ![""] (DataAnalysis_Python_Spring17/final/ana_5/top_wages_california.png)
+- Finding out the min,max,mean wages of every employer in that state and displaying the top 10 companies ![""] (ana_5/top_wages_california.png)
