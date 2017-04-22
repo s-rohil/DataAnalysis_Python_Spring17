@@ -27,7 +27,7 @@
 
 ## Analysis 5 :
 - Considering only H1B petitions for full time positions
-- Finding the state with highest number of petitions
+- Finding the state with highest number of petitions ![""](ana_5/top_H1B_states.png)
 - Calculating the mean wages of every city in that state
 - Finding out the min,max,mean wages of every employer in that state and displaying the top 10 companies 
  ![""](ana_5/top_wages_california.png)
