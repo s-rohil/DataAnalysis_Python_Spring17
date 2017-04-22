@@ -1,7 +1,7 @@
 #### README
 # Final Exam - Spring 2017
 
-##DATA SOURCE :
+## DATA SOURCE :
 - [H1B Petitions](https://www.kaggle.com/nsharan/h-1b-visa)
 - Considering only petitions for the year 2016
 
